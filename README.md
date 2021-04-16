@@ -6,8 +6,6 @@ Vuepress Template
 [![GitHub license](https://img.shields.io/github/license/openHacking/vuepress-template?style=flat-square)](https://github.com/openHacking/vuepress-template)
 </div>
 
-*[·-·]:简体中文 | [English](./README.md)
-
 ## 介绍
 
 基于[Vuepress Template](https://openhacking.github.io/vuepress-template/zh/) 项目，一个简单的VuePress案例模板，目的是让用户可以直接clone这个仓库，作为初始化一个VuePress网站启动项目，然后在这个项目的基础上新增自定义配置和功能。
