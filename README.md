@@ -35,6 +35,7 @@ git clone https://github.com/MroZ11/vuepress-template.git
 ```sh
 cd vuepress-template
 npm i
+#npm i --registry=https://registry.npm.taobao.org
 ```
 
 ### 第三步
